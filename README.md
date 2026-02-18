@@ -17,11 +17,9 @@
 2. Sign up (no credit card needed)
 3. Once in the Dashboard, you'll automatically be in **Test Mode** (toggle top-left)
 4. Go to **Developers → API Keys**
-5. Copy your **Secret key** — it starts with `sk_test_...`
-sk_test_51T1tyeDgm4zNlh83XC4fCdWg7l1dbfPz4FZs0LPxtRoNuPi4LP4QxIgJhmaUQnRQzTKQvSWZwDYwm5WJIufGT9Mb00KSd51DXn
+5. Copy your **Secret key** — it starts with `sk_test_...` and paste into `.env`
 
-6. Copy your **Publishable key** — it starts with `pk_test_...`
-pk_test_51T1tyeDgm4zNlh83FXfyPT4611EzRTjktF0oCxVLv6DtrRzJ57TJTYCCjTngM61lpm3M4ZyT3C3nUAx8euVCEztW00TGz5xnCE
+6. Copy your **Publishable key** — it starts with `pk_test_...` and paste into `.env`
 ---
 
 ## Step 2 — Project Setup (run in your terminal)
