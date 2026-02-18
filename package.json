@@ -1,0 +1,19 @@
+{
+  "name": "stripe-sandbox",
+  "version": "1.0.0",
+  "description": "Node.js Stripe sandbox integration with PaymentIntent, Customer, and Webhook support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-scenarios.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "stripe": "^17.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
